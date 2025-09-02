@@ -6,7 +6,7 @@ Meu nome é Amanda
 
 - Estou me desenvolvendo na linguagem JavaScript
 
-- UTilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
 
